@@ -11,6 +11,7 @@ This repository contains the source code for Needs_Shopping_List Android app.
 * Intent
 * Android Material Design
 
-![](https://github.com/imad-elbouhati/imad-imad_public/blob/master/ShoppingList.gif)
+
+<img src="https://github.com/imad-elbouhati/imad-imad_public/blob/master/ShoppingList.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
 
